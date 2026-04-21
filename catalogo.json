@@ -47,7 +47,7 @@
           "defaultAction": "consultar",
           "productStatus": "activo",
           "oldPrice": 5,
-          "image": "assets\\images\\betoEncina.jpeg"
+          "image": "assets/images/betoEncina.webp"
         },
         {
           "name": "Reloj Garmin",
@@ -62,7 +62,7 @@
           "defaultAction": "quiero",
           "productStatus": "activo",
           "oldPrice": 5000,
-          "image": "assets\\images\\RelojGarmin.jpeg"
+          "image": "assets/images/RelojGarmin.webp"
         },
         {
           "name": "Reloj Minimal Steel",
